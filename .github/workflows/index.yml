@@ -2,7 +2,7 @@ name: RSS Everyday
 on: 
   workflow_dispatch:
   schedule:
-    - cron: '0 8,12,16,20 * * *'
+    - cron: '0 0,4,8,12 * * *'
 #env:
 #  TZ: Asia/Shanghai
 
