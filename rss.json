@@ -1,12 +1,28 @@
 {
   "rss_info": [
     {
-      "title": "少数派",
-      "url": "https://sspai.com/feed"
+      "title": "微博热搜榜",
+      "url": "https://rsshub.app/weibo/search/hot"
     },
     {
-      "title": "BBC NEWS 中文网",
-      "url": "https://rsshub.app/bbc/chinese"
+      "title": "微博 - 玥儿",
+      "url": "https://rsshub.app/weibo/user/7589262321"
+    },
+    {
+      "title": "微博 - 美桃酱",
+      "url": "https://rsshub.app/weibo/user/3446135862"
+    },
+    {
+      "title": "微博 - 可乐Vicky",
+      "url": "https://rsshub.app/weibo/user/5847448110"
+    },
+    {
+      "title": "今日热榜",
+      "url": "https://rsshub.app/tophub/Om4ejxvxEN"
+    },
+    {
+      "title": "知乎热榜",
+      "url": "https://plink.anyfeeder.com/zhihu/hotlist"
     },
     {
       "title": "美国之音",
@@ -23,10 +39,6 @@
     {
       "title": "纽约时报中文版",
       "url": "http://feeds.feedburner.com/nytcn"
-    },
-    {
-      "title": "知乎热榜",
-      "url": "https://plink.anyfeeder.com/zhihu/hotlist"
     },
     {
       "title": "磊哥聊政经",
